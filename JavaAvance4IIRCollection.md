@@ -145,7 +145,7 @@ class GestionBibliotheque {
 
 ### Définition
 
-LinkedList est une structure de données en liste chaînée doublement liée permettant des insertions et suppressions efficientes au début, à la fin et au milieu de la liste.
+LinkedList est une structure de données en liste chaînée doublement (transparent te a l utilisateur) liée permettant des insertions et suppressions efficientes au début, à la fin et au milieu de la liste.
 
 ### Comparaison avec ArrayList
 
@@ -812,6 +812,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
