@@ -4,7 +4,7 @@
 
 *Destiné aux étudiants de 4 IIR - EMSI Casablanca*
 fait par :Ayman Mahboub
-<img src="datajava" style="height:464px;margin-right:432px"/>
+<img src="javadata" style="height:464px;margin-right:432px"/>
 ***
 
 ## Introduction
@@ -813,6 +813,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
